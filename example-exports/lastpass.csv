@@ -1,0 +1,4 @@
+url,username,password,extra,name,grouping,fav
+,Username1,NotBreachedPassword,,NonBreachedSite1,,0
+,Username2,NotBreachedPassword,,NonBreachedSite2,,0
+,Username3,BadPassword,,BreachedSite,,0

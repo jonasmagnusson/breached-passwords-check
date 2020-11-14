@@ -1,0 +1,4 @@
+folder,favorite,type,name,notes,fields,login_uri,login_username,login_password,login_totp
+,,login,NonBreachedSite1,,,,Username1,NotBreachedPassword,
+,,login,NonBreachedSite2,,,,Username2,NotBreachedPassword,
+,,login,BreachedSite,,,,Username3,BadPassword,
